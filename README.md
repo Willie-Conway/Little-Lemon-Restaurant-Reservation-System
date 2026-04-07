@@ -3,6 +3,9 @@
 
 # Little Lemon — Mediterranean Restaurant Reservation System
 
+![alt text](Screenshots/Lemon_Logo.png)
+
+
 ![Little Lemon](https://img.shields.io/badge/Little_Lemon-Mediterranean_Restaurant-495E57?style=for-the-badge&logo=restaurant&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
