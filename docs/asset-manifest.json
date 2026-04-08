@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Little-Lemon-Restaurant-Reservation-System/static/js/main.9cd1bbe2.js",
+    "main.js": "/Little-Lemon-Restaurant-Reservation-System/static/js/main.bbc2f534.js",
     "index.html": "/Little-Lemon-Restaurant-Reservation-System/index.html",
-    "main.9cd1bbe2.js.map": "/Little-Lemon-Restaurant-Reservation-System/static/js/main.9cd1bbe2.js.map"
+    "main.bbc2f534.js.map": "/Little-Lemon-Restaurant-Reservation-System/static/js/main.bbc2f534.js.map"
   },
   "entrypoints": [
-    "static/js/main.9cd1bbe2.js"
+    "static/js/main.bbc2f534.js"
   ]
 }
