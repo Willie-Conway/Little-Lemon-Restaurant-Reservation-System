@@ -554,7 +554,7 @@ function Testimonials() {
       <div className="testi-grid">
         {TESTIMONIALS.map((t, i) => (
           <div className="testi-card" key={i}>
-            <div className="testi-stars">{"&#9733;".repeat(t.stars)}</div>
+            <div className="testi-stars">{"★".repeat(t.stars)}</div>
             <p className="testi-quote">&#8220;{t.quote}&#8221;</p>
             <div className="testi-author">&#8212; {t.name}</div>
           </div>
@@ -563,6 +563,8 @@ function Testimonials() {
     </section>
   );
 }
+
+
 
 /* ─── CTA Banner (shared) ────────────────────────────────────────────────── */
 function CTABanner({ nav }) {
