@@ -56,12 +56,18 @@
 
 ### **Hero Section** 🌟
 
+![alt text](<Screenshots/Intro Page.png>)
+
+
+
 - **Split layout**: Text content on left, image on right
 - **Animated rotating badge** with restaurant establishment year
 - **Call-to-action buttons**: "Reserve a Table" and "Explore Menu"
 - **Key statistics**: 12+ years, 4.9★ rating, 40k guests
 
 ### **Weekly Specials** 🍽️
+
+![alt text](<Screenshots/Weekly Specials.png>)
 
 - **3 featured recipes** with images, badges, prices
 - **Hover effects**: Card lifts, image scales, CTA arrow animates
@@ -73,11 +79,15 @@
 
 ### **About Section** 📖
 
+![alt text](<Screenshots/About Page.png>)
+
 - **Split layout**: Two overlapping images on left, story text on right
 - **Restaurant origin story** — family-owned since 2012
 - **Local sourcing** commitment to Chicago farmers
 
 ### **Testimonials** ⭐
+
+![alt text](Screenshots/Testimonials.png)
 
 - **3 guest reviews** with star ratings
 - **Quotes** from satisfied customers
@@ -99,7 +109,12 @@
 
 ## 📋 **Menu Page**
 
+![alt text](<Screenshots/Menu Page.png>)
+
 ### **Category Filters** 🔍
+
+![alt text](<Screenshots/Cart Drawer.png>)
+
 
 | Category | Items |
 |----------|-------|
@@ -119,9 +134,16 @@
 - **"Add" button** with toast notification simulation
 - **Responsive grid** adapts to screen size
 
+![alt text](<Screenshots/Nutrition Page.png>)
+
+![alt text](<Screenshots/Nutrition Page_2.png>)
+
+
 ---
 
 ## 📅 **Booking System**
+
+![alt text](<Screenshots/Reservation Page.png>)
 
 ### **Form Fields** 📝
 
@@ -156,6 +178,8 @@ const fetchTimes = (date) => {
 ```
 
 ### **Form Validation** ✅
+
+![alt text](<Screenshots/Booking Page.png>)
 
 - All required fields must be filled
 - Date must be today or future
